@@ -16,6 +16,6 @@ void f_pall(stack_t **head, unsigned int counter)
 	while (h)
 	{
 		printf("%d\n", h->n);
-		h = h->next;
+		h = ->next;
 	}
 }
